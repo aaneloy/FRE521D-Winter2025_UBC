@@ -1,6 +1,6 @@
 # FRE521D: Data Analytics in Climate, Food, and Environment
 
-Welcome to the repository for **FRE521D**, a graduate-level course offered at the University of British Columbia (UBC). This course focuses on equipping students with essential data analytics skills, including machine learning, SQL, and cloud-based data processing, with practical applications in climate, food systems, and environmental economics.
+This course provides an intensive exploration of advanced data analytics methods, specifically machine learning, SQL, and cloud-based data querying. With applications focused on climate, food, and environmental sectors, students will gain expertise in analyzing large datasets, managing and querying databases, and processing cloud-based data, all aimed at addressing real-world challenges in ESG assessment, sustainability, and data-driven decision-making.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to the repository for **FRE521D**, a graduate-level course offered at th
 
 - **Course Name**: FRE521D: Data Analytics in Climate, Food, and Environment
 - **Instructor**: Asif Ahmed Neloy
-- **Email**: neloya@douglascollege.ca
+- **Email**: asif.neloy@ubc.ca or neloyn@myumanitoba.ca
 - **Schedule**: Monday and Wednesday, 5:30 PM – 7:00 PM
 - **Classroom**: MCML 154
 - **Course Duration**: January 6 - February 14
@@ -19,27 +19,31 @@ Welcome to the repository for **FRE521D**, a graduate-level course offered at th
 
 Below is a week-by-week breakdown of the course content, including lecture topics, datasets, and additional resources:
 
-| **Week** | **Lecture Topic**                                      | **Datasets**                         | **Lecture Slides**            | **Notes/Resources**            |
-|----------|--------------------------------------------------------|---------------------------------------|--------------------------------|---------------------------------|
-| Week 1   | Introduction to Machine Learning                       | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
-| Week 2   | Supervised Models                                      | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
-| Week 3   | Clustering and Unsupervised Methods                    | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
-| Week 4   | Advanced SQL and Query Optimization                    | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
-| Week 5   | Time Series Queries in SQL                             | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
-| Week 6   | Python API Integration and Data Wrangling              | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
-| Week 7   | Scalable Data Processing with Cloud Platforms          | [Dataset Link]()                      | [Slides Link]()               | [Notes Link]()                 |
+## Course Schedule
+
+| **Date**       | **Topic**                                             | **Notes**                                      |
+|-----------------|-------------------------------------------------------|-----------------------------------------------|
+| **Week 1-3: Advanced Machine Learning Techniques**                     |                                               |                                               |
+| January 6, 2025 | [Introduction to Data Analytics: Course Overview, Installing Prerequisites, and Basics of Machine Learning Terminology](#) |                                               |
+| January 8, 2025 | [Machine Learning Basics: Data Engineering and Modeling](#) | Formation of groups for final project; Assignment 1 Released |
+| January 13, 2025 | [Supervised Modeling: Regression Techniques](#)      |                                               |
+| January 15, 2025 | [Supervised Methods: Classification Techniques](#)   | Quiz 1                                        |
+| January 20, 2025 | [Introduction to Unsupervised Modeling and Clustering](#) |                                               |
+| January 22, 2025 | [Unsupervised Modeling: PCA and t-SNE](#)           | Assignment 1 Deadline (Jan 25, 2025)          |
+| January 27, 2025 | [Final Review of Machine Learning Models (Introduction to Imaging Datasets)](#) | Quiz 2; Final Project Released                |
+| **Week 3-5: Advanced SQL for Data Analytics**                          |                                               |                                               |
+| January 29, 2025 | [SQL Basics: Queries, Joins, and Functions](#)       | Assignment 2 Released                         |
+| February 3, 2025 | [Advanced SQL: Window Functions and Recursive Queries](#) | Quiz 3                                        |
+| February 5, 2025 | [SQL for Time-Series Data and Optimization Techniques](#) | Assignment 2 Deadline                         |
+| **Week 5-6: Data Access and Cloud Processing**                         |                                               |                                               |
+| February 10, 2025 | [Data Wrangling in Python: ETL Pipelines](#)         |                                               |
+| February 12, 2025 | [Cloud Platforms: Big Data Handling and Serverless Architecture](#) | Final Project Submission                      |
 
 ---
 
 ## Exam Dates
 
-- **Midterm Exam**: TBA
-  - Covers Weeks 1–3 (Machine Learning Topics)  
-  - Format: Open book, hands-on coding, and multiple-choice questions.  
-
-- **Final Exam**: TBA
-  - Covers Weeks 4–7 (SQL, Data Wrangling, and APIs)  
-  - Format: Comprehensive problem-solving and coding.
+- TBA
 
 ---
 
@@ -47,7 +51,7 @@ Below is a week-by-week breakdown of the course content, including lecture topic
 
 | **Date**       | **Announcement**                |
 |-----------------|---------------------------------|
-| TBA            | Assignment 2 deadline.          |
+| TBA            | Assignment 1 deadline.          |
 | TBA            | Group project topic submission. |
 | TBA            | Final project presentation.     |
 
@@ -63,7 +67,7 @@ This repository is licensed under the **MIT License**. See the [LICENSE](./LICEN
 
 For any questions or issues, please contact:
 - **Instructor**: Asif Ahmed Neloy  
-- **Email**: neloya@douglascollege.ca
+- **Email**: asif.neloy@ubc.ca or neloyn@myumanitoba.ca
 - **Website**: [asif_neloy](https://aaneloy.github.io/)
 
 ---
