@@ -43,17 +43,17 @@ Below is a week-by-week breakdown of the course content, including lecture topic
 
 ## Exam Dates
 
-- TBA
+- Quiz 1: Released Jan 14, 2025 (Deadline - January 15, 2025 11:59 PM PST)
 
 ---
 
 ## Announcements
 
 | **Date**       | **Announcement**                |
-|-----------------|---------------------------------|
-| TBA            | Assignment 1 deadline.          |
-| TBA            | Group project topic submission. |
-| TBA            | Final project presentation.     |
+|----------------|---------------------------------|
+| Jan 25         | Assignment 1 deadline.          |
+| Feb 10         | Group project submission.       |
+| Feb 12         | Final project presentation.     |
 
 ---
 
