@@ -9,9 +9,6 @@ This course provides an intensive exploration of advanced data analytics methods
 - **Course Name**: FRE521D: Data Analytics in Climate, Food, and Environment
 - **Instructor**: Asif Ahmed Neloy
 - **Email**: asif.neloy@ubc.ca or neloyn@myumanitoba.ca
-- **Schedule**: Monday and Wednesday, 5:30 PM – 7:00 PM
-- **Classroom**: MCML 154
-- **Course Duration**: January 6 - February 14
 
 ---
 
